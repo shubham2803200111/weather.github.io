@@ -69,7 +69,7 @@ font-size: 28px;
 <body>
 	<div class="con">
 		<input type="search" class="inp">
-		<button class="btn">submit</button>
+		<button class="btn" onclick='alert()'>submit</button>
 		<div class="ico">
 			<img class="im" src="" >
 		</div>
